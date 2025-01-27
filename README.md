@@ -7,9 +7,11 @@
 
 Some projects that I am currently improving:
 
-[astartool](https://github.com/ASTARCHEN/astartool): ![astartool](https://wakatime.com/share/badges/projects?q=astartool)
-[astar-mathtool](https://gitee.com/hoops/astar-mathtool): ![astar-mathtool](https://wakatime.com/share/badges/projects?q=astar-mathtool)
-[snowland-smx](https://gitee.com/snowlandltd/snowland-smx-python): ![snowland-smx](https://wakatime.com/share/badges/projects?q=snowland-smx-python)
+[astartool](https://github.com/ASTARCHEN/astartool): [![wakatime](https://wakatime.com/badge/github/ASTARCHEN/astartool.svg)](https://wakatime.com/badge/github/ASTARCHEN/astartool)
+
+[astar-mathtool](https://gitee.com/hoops/astar-mathtool): [![wakatime](https://wakatime.com/badge/user/153c2113-19ae-40fb-ad48-298f9e152099/project/cf5331ea-9042-441c-89d9-68a8aa4f1440.svg)](https://wakatime.com/badge/user/153c2113-19ae-40fb-ad48-298f9e152099/project/cf5331ea-9042-441c-89d9-68a8aa4f1440)
+
+[snowland-smx](https://gitee.com/snowlandltd/snowland-smx-python): [![wakatime](https://wakatime.com/badge/github/ASTARCHEN/snowland-smx-python.svg)](https://wakatime.com/badge/github/ASTARCHEN/snowland-smx-python)
 
 
 <!--
